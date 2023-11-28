@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Geadle_initApplication {
+public class Gradle_InitApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Geadle_initApplication.class, args);
+        SpringApplication.run(Gradle_InitApplication.class, args);
     }
 
 }

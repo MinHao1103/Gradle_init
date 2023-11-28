@@ -30,12 +30,12 @@
 							}
 						},
 						"url": {
-							"raw": "{{domain}}/geadle_init/v1/test",
+							"raw": "{{domain}}/gradle_init/v1/test",
 							"host": [
 								"{{domain}}"
 							],
 							"path": [
-								"geadle_init",
+								"gradle_init",
 								"v1",
 								"test"
 							]
@@ -56,12 +56,12 @@
 							}
 						],
 						"url": {
-							"raw": "{{domain}}/geadle_init/v1/test",
+							"raw": "{{domain}}/gradle_init/v1/test",
 							"host": [
 								"{{domain}}"
 							],
 							"path": [
-								"geadle_init",
+								"gradle_init",
 								"v1",
 								"test"
 							]
@@ -81,12 +81,12 @@
 							}
 						],
 						"url": {
-							"raw": "{{domain}}/geadle_init/v1/test/1",
+							"raw": "{{domain}}/gradle_init/v1/test/1",
 							"host": [
 								"{{domain}}"
 							],
 							"path": [
-								"geadle_init",
+								"gradle_init",
 								"v1",
 								"test",
 								"1"
@@ -116,15 +116,15 @@
 							}
 						},
 						"url": {
-							"raw": "{{domain}}/geadle_init/v1/test/2551d67e-e17a-4599-a346-8136871ef123",
+							"raw": "{{domain}}/gradle_init/v1/test/1",
 							"host": [
 								"{{domain}}"
 							],
 							"path": [
-								"geadle_init",
+								"gradle_init",
 								"v1",
 								"test",
-								"2551d67e-e17a-4599-a346-8136871ef123"
+								"1"
 							]
 						}
 					},
@@ -142,12 +142,12 @@
 							}
 						],
 						"url": {
-							"raw": "{{domain}}/geadle_init/v1/test/1",
+							"raw": "{{domain}}/gradle_init/v1/test/1",
 							"host": [
 								"{{domain}}"
 							],
 							"path": [
-								"geadle_init",
+								"gradle_init",
 								"v1",
 								"test",
 								"1"
